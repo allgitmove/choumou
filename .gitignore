@@ -1,0 +1,12 @@
+settings.json
+settings.json.bak
+media/
+.integration/
+*.log
+*.tmp
+*.installing
+self-test-result.txt
+.env
+.env.*
+*.pfx
+*.p12
